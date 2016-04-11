@@ -8,7 +8,7 @@
 
 ==== Goal
 
-Creating a content item.
+Creating a content item. `test` backticks
 
 ==== Prerequisite knowledge
 
